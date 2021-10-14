@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 Cursando 2º sem de Análise e Desenvolvimento de Sistemas - UCPel.
 - 👩🏻‍💻 Atualmente trabalho como bolsista Front-end na Compasso UOL.
-- 🤐 Fato curioso: Cursei 3 anos de ADS em outra faculdade ¯\_(ツ)_/¯.
+- 🤐 Fato curioso: Cursei 3 anos de ADS em outra faculdade (ツ)_/¯.
 
 ##
 
