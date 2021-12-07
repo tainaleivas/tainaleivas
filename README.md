@@ -1,7 +1,7 @@
 ## Oi me chamo Tainá Leivas, graduanda em ADS e aspirante a Front-end!
 
 - 👩🏻‍🎓 Cursando 2º sem de Análise e Desenvolvimento de Sistemas - UCPel.
-- 👩🏻‍💻 Atualmente trabalho como bolsista Front-end na Compasso UOL.
+- 👩🏻‍💻 Atualmente estou estudando Front-End e procurando uma oportunidade de trabalho na área.
 - 🤐 Fato curioso: Cursei 3 anos de ADS em outra faculdade (ツ)_/¯.
 
 ##
