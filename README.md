@@ -1,10 +1,8 @@
-## Oi me chamo Tainá Leivas, graduanda em ADS e aspirante a Front-end!
+## Oi eu sou a Tainá Leivas, mas alguns me chama de Tai :smile:
 
-- 👩🏻‍🎓 Cursando 2º sem de Análise e Desenvolvimento de Sistemas - UCPel.
-- 👩🏻‍💻 Atualmente estou estudando Front-End e procurando uma oportunidade de trabalho na área.
-- 🤐 Fato curioso: Cursei 3 anos de ADS em outra faculdade (ツ)_/¯.
-
-##
+- Trainee Programer at Compass.UOL :compass:
+- Fato besta: Cursei 3 anos de ADS em outra faculdade, 1 ano em outra e acabei cancelando a matrícula. :sweat_smile:	(ツ)_/¯.
+- Acho mais fácil utilizar avatar no estilo Notion do que tirar uma boa foto pro perfil :clown_face:	
 
 <div align="center">
   <a href="https://github.com/tainaleivas">
@@ -26,7 +24,9 @@
   
   <div> 
   <a href="https://instagram.com/taina_leivas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leivastaina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:leivastaina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/taina-leivas/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Tai-pic" height="150em" src="https://cdn.discordapp.com/attachments/729819689215328356/898352216354721842/alterego.png?width=676&height=676">
+  <img align="right" height="150em" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6NSwibW91dGgiOjAsImV5ZXMiOjAsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjo2LCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjoxLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6ImNpcmNsZSJ9" alt="taina notion avatar">
   </div>
+  
+  
