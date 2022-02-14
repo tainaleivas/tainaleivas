@@ -17,7 +17,7 @@
   <img align="center" alt="Tai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tai-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
@@ -28,7 +28,17 @@
   <a href="https://www.linkedin.com/in/taina-leivas/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-   <img align="left" height="150em" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6MiwibW91dGgiOjAsImV5ZXMiOjEsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjo2LCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6InNxdWFyZSJ9" alt="taina's notion avatar">
+  <div> 
+  <img align="left" height="150em" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6MiwibW91dGgiOjAsImV5ZXMiOjEsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjo2LCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6InNxdWFyZSJ9" alt="taina's notion avatar">
+    <br>
+    <p> O site que usei pra criar o avatar foi esse aqui ➡️<a href="https://notion-avatar.vercel.app/"</a> Notion Avatar </p>
+  </div>
+   
+  
+ 
+  
+ 
+  
     
 
  
