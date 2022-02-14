@@ -29,7 +29,7 @@
   </div>
   
   <div> 
-  <img align="left" height="150em" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6MiwibW91dGgiOjAsImV5ZXMiOjEsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjo2LCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6InNxdWFyZSJ9" alt="taina's notion avatar">
+  <img align="left" height="150em" style="border-radius:50px;" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6MiwibW91dGgiOjAsImV5ZXMiOjEsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjo2LCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6InNxdWFyZSJ9" alt="taina's notion avatar">
     <br>
     <p> O site que usei pra criar o avatar foi esse aqui ➡️<a href="https://notion-avatar.vercel.app/"</a> Notion Avatar </p>
   </div>
