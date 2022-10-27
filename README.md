@@ -1,8 +1,7 @@
 ## Oi eu sou a Tainá Leivas, mas alguns me chama de Tai :smile:
 
 - Trainee Programer at Compass.UOL :compass:
-- Fato besta: Cursei 3 anos de ADS em uma faculdade, 1 ano em outra e acabei cancelando a matrícula. :sweat_smile:	(ツ)_/¯.
-- Acho mais fácil utilizar avatar no estilo Notion do que tirar uma boa foto pro perfil :clown_face:	
+- Fato besta: Cursei 3 anos de ADS em uma faculdade, 1 ano em outra e acabei cancelando a matrícula. :sweat_smile:	(ツ)_/¯.	
 
 <div align="center">
   <a href="https://github.com/tainaleivas">
@@ -33,7 +32,6 @@
   <div> 
   <img align="left" height="150em" style="border-radius:50px;" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6MiwibW91dGgiOjAsImV5ZXMiOjEsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjo2LCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6InNxdWFyZSJ9" alt="taina's notion avatar">
     <br>
-    <p> O site que usei pra criar o avatar foi esse aqui ➡️<a href="https://notion-avatar.vercel.app/"</a> Notion Avatar </p>
   </div>
    
   
