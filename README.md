@@ -4,8 +4,6 @@
 - Fato besta: Cursei 3 anos de ADS em uma faculdade, 1 ano em outra e acabei cancelando a matrícula. :sweat_smile:	
 
 <div>
-  <img align="left" height="180em" src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6MSwibW91dGgiOjEsImV5ZXMiOjEwLCJleWVicm93cyI6NiwiZ2xhc3NlcyI6MywiaGFpciI6MjYsImFjY2Vzc29yaWVzIjo2LCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiaGFsbG93ZWVuIjo0LCJmbGlwIjowLCJjb2xvciI6IiNmYWRiMTQiLCJzaGFwZSI6InNxdWFyZSJ9" alt="taina's notion avatar">
-  
   <a href="https://github.com/tainaleivas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainaleivas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainaleivas&theme=dracula"/> 
