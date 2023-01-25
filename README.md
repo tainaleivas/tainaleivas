@@ -1,15 +1,9 @@
-## Oi :wave:, me chamo Tainá. <br> ~~Mas alguns me chamam de Tai :smile:~~
+# Oi 👋, me chamo Tainá. <br> ~~_Mas alguns me chamam de Tai ✌(ツ)_~~
 
 - Trainee Programer at Compass.UOL :compass:
-- Fato besta: Cursei 3 anos de ADS em uma faculdade, 1 ano em outra e acabei cancelando a matrícula. :sweat_smile:	
-
-<div>
-  <a href="https://github.com/tainaleivas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainaleivas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainaleivas&theme=dracula"/> 
-</div>
-
-##
+- Fato curioso e inútil: Cursei 3 anos de Análise e Desenvolvimento de Sistemas e não me formei. :sweat_smile: 
+- As vezes a vida nos faz escolher entre manter a sanidade ou largar a faculdade (ツ)_/¯ ~Ainda pretendo me formar~
+## 
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
