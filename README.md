@@ -67,7 +67,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/tainaleivas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainaleivas&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img height="180em" src="https://user-images.githubusercontent.com/40158873/215107610-66656ba9-df83-4909-a1c2-24f6df677f2f.png" />
       <img height="180em" src="https://user-images.githubusercontent.com/40158873/215082428-601a23b5-aaa0-4154-bcbc-a5225bef7517.png" />
     </a>
   </p>
