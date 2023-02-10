@@ -52,11 +52,11 @@
   
 <div align="center"> 
     <h3>Contact me:</h3>
-      <a href="https://dev.to/tainaleivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tainaleivas" height="30" width="40" /></a>
-      <a href="https://www.linkedin.com/in/tainaleivas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tainaleivas" height="30" width="40" /></a>
-      <a href="https://www.hackerrank.com/tainaleivaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tainaleivaas" height="30" width="40" /></a>    
-      <a href="https://www.leetcode.com/tainaleivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tainaleivas" height="30" width="40" /></a>  
-      <a href="https://instagram.com/tainaleivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tainaleivas" height="30" width="40" /></a>
+      <a href="https://dev.to/tainaleivas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tainaleivas" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/tainaleivas/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tainaleivas" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/tainaleivaas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tainaleivaas" height="30" width="40" /></a>    
+      <a href="https://www.leetcode.com/tainaleivas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tainaleivas" height="30" width="40" /></a>  
+      <a href="https://instagram.com/tainaleivas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tainaleivas" height="30" width="40" /></a>
 </div>
 
 <p  align="center">
