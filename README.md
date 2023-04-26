@@ -67,12 +67,11 @@
   <p align="center">
     <a href="https://github.com/tainaleivas">
       <img height="180em" src="https://user-images.githubusercontent.com/40158873/215107610-66656ba9-df83-4909-a1c2-24f6df677f2f.png" />
-      <img src="https://github-readme-stats.vercel.app/api?username=tainaleivas&show_icons=true&theme=panda&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tainaleivas&theme=blueberry&show_icons=true">
     </a>
-  </p>
+  </p> 
   </div>
 </div>
-
 
 
 
