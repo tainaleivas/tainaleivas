@@ -62,15 +62,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  
-<div>
-  <p align="center">
-    <a href="https://github.com/tainaleivas">
-      <img height="180em" src="https://user-images.githubusercontent.com/40158873/215107610-66656ba9-df83-4909-a1c2-24f6df677f2f.png" />
-      
-    </a>
-  </p> 
-  </div>
+ 
 </div>
 
 
