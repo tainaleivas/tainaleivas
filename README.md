@@ -6,6 +6,7 @@
   <h2>Oiê 😄</h2>
   <p><strong>Breve resumo</strong></p>
   <ul>Idade: 25 ✨</ul>
+  <ul>Resiliência, persistência, piadas ruins e senso de humor duvisoso fazem parte da minha personalidade 😅</ul>
   <ul>Me viro com inglês e arranho no espanhol 🤓</ul>
   <ul>Moro em São Lourenço do Sul - RS (Gaúcha) 📍</ul>
   <ul>Sou escrava de uma gata laranjinha que se chama Daika 🐈</ul>
