@@ -1,11 +1,11 @@
-# Olá! Me chamo Tainá Leivas 😄
+# Olá! Me chamo Tainá Macedo 😄
 
 ## Breve resumo
-- **Idade:** 25 ✨
+- **Idade:** 26 ✨
 - Resiliência, persistência, piadas ruins e senso de humor duvidoso fazem parte da minha personalidade 😅
 - Gosto de uns games 🎮🖱
 - Me viro com inglês e arranho no espanhol 🤓
-- Moro em São Lourenço do Sul - RS (Gaúcha) 📍
+- Moro atualmente em São Lourenço do Sul - RS (Sou natural de Pelotas) 📍
 - Sou escrava de uma gata laranjinha que se chama Daika 🐈
 
 ## Techs
